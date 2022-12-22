@@ -1,0 +1,3 @@
+interface_name = "enp0s25"
+mapping_path = "hosts.yaml"
+hosts_path = "custom.list"
